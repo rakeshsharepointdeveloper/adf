@@ -12,6 +12,50 @@
 						"value": "rakeshdjayswal@outlook.com"
 					}
 				]
+			},
+			{
+				"name": "AKVUserPwd",
+				"type": "SetVariable",
+				"dependsOn": [],
+				"userProperties": [
+					{
+						"name": "Password",
+						"value": "Admin@12345"
+					}
+				]
+			},
+			{
+				"name": "AKVPJOOdataClientId",
+				"type": "SetVariable",
+				"dependsOn": [],
+				"userProperties": [
+					{
+						"name": "Password",
+						"value": "Admin@12345"
+					}
+				]
+			},
+			{
+				"name": "AKVPJOOdataScope",
+				"type": "SetVariable",
+				"dependsOn": [],
+				"userProperties": [
+					{
+						"name": "Password",
+						"value": "Admin@12345"
+					}
+				]
+			},
+			{
+				"name": "AKVPJOOdataSecret",
+				"type": "SetVariable",
+				"dependsOn": [],
+				"userProperties": [
+					{
+						"name": "Password",
+						"value": "Admin@12345"
+					}
+				]
 			}
 		],
 		"annotations": []
