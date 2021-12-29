@@ -30,8 +30,8 @@
 				"dependsOn": [],
 				"userProperties": [
 					{
-						"name": "Password",
-						"value": "Admin@12345"
+						"name": "ClientId",
+						"value": "Update"
 					}
 				]
 			},
@@ -41,8 +41,8 @@
 				"dependsOn": [],
 				"userProperties": [
 					{
-						"name": "Password",
-						"value": "Admin@12345"
+						"name": "OdataScope",
+						"value": "Update"
 					}
 				]
 			},
@@ -52,8 +52,8 @@
 				"dependsOn": [],
 				"userProperties": [
 					{
-						"name": "Password",
-						"value": "Admin@12345"
+						"name": "OdataSecret",
+						"value": "Udpate"
 					}
 				]
 			}
