@@ -6,7 +6,12 @@
 				"name": "AKVUsername",
 				"type": "SetVariable",
 				"dependsOn": [],
-				"userProperties": []
+				"userProperties": [
+					{
+						"name": "UserName",
+						"value": "rakeshdjayswal@outlook.com"
+					}
+				]
 			}
 		],
 		"annotations": []
