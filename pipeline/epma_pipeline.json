@@ -1,6 +1,14 @@
 {
 	"name": "epma_pipeline",
 	"properties": {
+		"activities": [
+			{
+				"name": "AKVUsername",
+				"type": "SetVariable",
+				"dependsOn": [],
+				"userProperties": []
+			}
+		],
 		"annotations": []
 	}
 }
